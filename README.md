@@ -1,1 +1,1 @@
-# This page has been moved to https://stefanbordea.com
+# This page has been moved to <a href="https://stefanbordea.com/" target="_blank">stefanbordea.com</a>
